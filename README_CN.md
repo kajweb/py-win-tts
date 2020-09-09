@@ -25,6 +25,8 @@
 ## 安装
 
 ```bash
+git clone https://github.com/kajweb/py-win-tts.git
+cd py-win-tts
 pip install -r requirements.txt
 ```
 
